@@ -2,7 +2,7 @@ import userModel from "../models/userModel.js";
 // use authentication ke liye
 import jwt from "jsonwebtoken"
 // edit bcrypt
-import bcrypt from "bcrypt"
+import bcrypt from "bcryptjs"
 // edit validator
 import validator from "validator"
 
