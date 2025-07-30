@@ -6,7 +6,7 @@ import Cart from './pages/Cart/cart'
 import Placeorder from './pages/PlaceOrder/placeorder'
 import Home from './pages/Home/home'
 import Footer from './components/Footer/Footer'
-import LoginPopup from './components/LoginPopup/LoginPopup'
+import LoginPopup from './components/loginPopup/LoginPopup'
 import Verify from './pages/Verify/Verify'
 import MyOrders from './pages/MyOrders/MyOrders'
 
